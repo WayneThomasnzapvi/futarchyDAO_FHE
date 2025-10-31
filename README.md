@@ -1,4 +1,4 @@
-```markdown
+
 # FutarchyDAO: A Governance Framework Powered by FHE
 
 FutarchyDAO is a pioneering governance framework utilizing Zama's Fully Homomorphic Encryption (FHE) technology to transform decision-making within decentralized autonomous organizations (DAOs). By leveraging encrypted prediction markets, this innovative mechanism shifts the paradigm of governance from direct voting to a more informed and rational process that is driven by the potential outcomes of proposals. 
